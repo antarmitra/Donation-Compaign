@@ -34,7 +34,7 @@
     },
     {
         "id": 4,
-        "image": "https://i.ibb.co/Sv8891f/Food.png",
+        "image": "https://i.ibb.co/2Fm3VML/Food.png",
         "title": "Better Food for Everyone",
         "category_bg_color": "#F8714733",
         "card_bg_color": "#F8714726",
@@ -45,7 +45,7 @@
     },
     {
         "id": 5,
-        "image": "https://i.ibb.co/Sv8891f/Food.png",
+        "image": "https://i.ibb.co/2Fm3VML/Food.png",
         "title": "Better Food for Everyone",
         "category_bg_color": "#F8714733",
         "card_bg_color": "#F8714726",
@@ -122,13 +122,13 @@
     },
     {
         "id": 12,
-        "image": "https://i.ibb.co/Sv8891f/Food.png",
+        "image": "https://i.ibb.co/2Fm3VML/Food.png",
         "title": "Better Food for Everyone",
         "category_bg_color": "#F8714733",
         "card_bg_color": "#F8714726",
         "text_and_btn_bg_color": "#F87147",
         "description": "Good food for all, a fundamental right,Nourishing bodies, igniting pure delight.No one should suffer from hunger's plight,Together we strive for an equitable fight.A world where no one goes to bed without a bite.",
-        "price": "26.99",
+        "price": "$26.99",
         "category": "Food"
     }
 ]

@@ -5,7 +5,7 @@ const Banner = () => {
         <div>
             <div className="hero min-h-fit">
                 <img src="/src/assets/image/Rectangle 4281.png" alt="" />
-                <div className="hero-overlay bg-white bg-opacity-90"></div>
+                <div className="hero-overlay bg-white bg-opacity-80"></div>
                 <div className="hero-content text-center text-neutral-content">
                     <div>
                         <h1 className="lg:mb-5 lg:text-4xl md:text-3xl text-xl font-bold text-black ">I Grow By Helping People In Need</h1>
