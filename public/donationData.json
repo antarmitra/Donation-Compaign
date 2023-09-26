@@ -12,26 +12,6 @@
     },
     {
         "id": 2,
-        "image": "https://i.ibb.co/hRGR2ZP/Health.png",
-        "title": "Clean water for children",
-        "category_bg_color": "#0052FF33",
-        "card_bg_color": "#0052FF26",
-        "text_and_btn_bg_color": "#0052FF",
-        "description": "Pure water for children, a lifeline so vital,Ensuring health, a future less frightful.Innocent hearts deserve water so clean,To chase dreams with eyes that gleam.Safe hydration, a universal decree,For every child, wherever they may be.Let's join hands, take this pledge anew, To provide clean water, a hope we pursue.","price": "$29.99",
-        "category": "Health"
-    },
-    {
-        "id": 3,
-        "image": "https://i.ibb.co/hRGR2ZP/Health.png",
-        "title": "Clean water for children",
-        "category_bg_color": "#0052FF33",
-        "card_bg_color": "#0052FF26",
-        "text_and_btn_bg_color": "#0052FF",
-        "description": "Pure water for children, a lifeline so vital,Ensuring health, a future less frightful.Innocent hearts deserve water so clean,To chase dreams with eyes that gleam.Safe hydration, a universal decree,For every child, wherever they may be.Let's join hands, take this pledge anew,To provide clean water, a hope we pursue.","price": "$14.99",
-        "category": "Health"
-    },
-    {
-        "id": 4,
         "image": "https://i.ibb.co/7t0VxHT/Education.png",
         "title": "Good education",
         "category_bg_color": "#FF444A33",
@@ -42,51 +22,7 @@
         "category": "Education"
     },
     {
-        "id": 5,
-        "image": "https://i.ibb.co/7t0VxHT/Education.png",
-        "title": "Good education",
-        "category_bg_color": "#FF444A33",
-        "card_bg_color": "#FF444A26",
-        "text_and_btn_bg_color": "#FF444A",
-        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-        "price": "$39.99",
-        "category": "Education"
-    },
-    {
-        "id": 6,
-        "image": "https://i.ibb.co/7t0VxHT/Education.png",
-        "title": "Good education",
-        "category_bg_color": "#FF444A33",
-        "card_bg_color": "#FF444A26",
-        "text_and_btn_bg_color": "#FF444A",
-        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-        "price": "$22.99",
-        "category": "Education"
-    },
-    {
-        "id": 7,
-        "image": "https://i.ibb.co/s6QpqQZ/Clothing.png",
-        "title": "Used Clothing Drive",
-        "category_bg_color": "#79C23F33",
-        "card_bg_color": "#79C23F26",
-        "text_and_btn_bg_color": "#79C23F",
-        "description": "A clothing drive, a noble deed to pursue,Gathering garments, both old and new.Donate with compassion, to those in need,Warmth and dignity, you'll help them succeed.Through these acts of kindness, hearts you'll feed.",
-        "price": "$17.99",
-        "category": "Clothing"
-    },
-    {
-        "id": 8,
-        "image": "https://i.ibb.co/s6QpqQZ/Clothing.png",
-        "title": "Used Clothing Drive",
-        "category_bg_color": "#79C23F33",
-        "card_bg_color": "#79C23F26",
-        "text_and_btn_bg_color": "#79C23F",
-        "description": "A clothing drive, a noble deed to pursue,Gathering garments, both old and new.Donate with compassion, to those in need,Warmth and dignity, you'll help them succeed.Through these acts of kindness, hearts you'll feed.",
-        "price": "$31.99",
-        "category": "Clothing"
-    },
-    {
-        "id": 9,
+        "id": 3,
         "image": "https://i.ibb.co/s6QpqQZ/Clothing.png",
         "title": "Used Clothing Drive",
         "category_bg_color": "#79C23F33",
@@ -97,26 +33,92 @@
         "category": "Clothing"
     },
     {
-        "id": 10,
+        "id": 4,
         "image": "https://i.ibb.co/Sv8891f/Food.png",
         "title": "Better Food for Everyone",
         "category_bg_color": "#F8714733",
         "card_bg_color": "#F8714726",
         "text_and_btn_bg_color": "#F87147",
         "description": "Good food for all, a fundamental right,Nourishing bodies, igniting pure delight.No one should suffer from hunger's plight,Together we strive for an equitable fight.A world where no one goes to bed without a bite.",
-        "price": "$28.99",
+        "price": "$26.99",
         "category": "Food"
     },
     {
-        "id": 11,
+        "id": 5,
         "image": "https://i.ibb.co/Sv8891f/Food.png",
         "title": "Better Food for Everyone",
         "category_bg_color": "#F8714733",
         "card_bg_color": "#F8714726",
         "text_and_btn_bg_color": "#F87147",
         "description": "Good food for all, a fundamental right,Nourishing bodies, igniting pure delight.No one should suffer from hunger's plight,Together we strive for an equitable fight.A world where no one goes to bed without a bite.",
-        "price": "$23.99",
+        "price": "$26.99",
         "category": "Food"
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/s6QpqQZ/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category_bg_color": "#79C23F33",
+        "card_bg_color": "#79C23F26",
+        "text_and_btn_bg_color": "#79C23F",
+        "description": "A clothing drive, a noble deed to pursue,Gathering garments, both old and new.Donate with compassion, to those in need,Warmth and dignity, you'll help them succeed.Through these acts of kindness, hearts you'll feed.",
+        "price": "$19.99",
+        "category": "Clothing"
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/7t0VxHT/Education.png",
+        "title": "Good education",
+        "category_bg_color": "#FF444A33",
+        "card_bg_color": "#FF444A26",
+        "text_and_btn_bg_color": "#FF444A",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": "$24.99",
+        "category": "Education"
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/hRGR2ZP/Health.png",
+        "title": "Clean water for children",
+        "category_bg_color": "#0052FF33",
+        "card_bg_color": "#0052FF26",
+        "text_and_btn_bg_color": "#0052FF",
+        "description": "Pure water for children, a lifeline so vital,Ensuring health, a future less frightful.Innocent hearts deserve water so clean,To chase dreams with eyes that gleam.Safe hydration, a universal decree,For every child, wherever they may be.Let's join hands, take this pledge anew,To provide clean water, a hope we pursue.",
+        "price": "$19.99",
+        "category": "Health"
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co/hRGR2ZP/Health.png",
+        "title": "Clean water for children",
+        "category_bg_color": "#0052FF33",
+        "card_bg_color": "#0052FF26",
+        "text_and_btn_bg_color": "#0052FF",
+        "description": "Pure water for children, a lifeline so vital,Ensuring health, a future less frightful.Innocent hearts deserve water so clean,To chase dreams with eyes that gleam.Safe hydration, a universal decree,For every child, wherever they may be.Let's join hands, take this pledge anew,To provide clean water, a hope we pursue.",
+        "price": "$19.99",
+        "category": "Health"
+    },
+    {
+        "id": 10,
+        "image": "https://i.ibb.co/7t0VxHT/Education.png",
+        "title": "Good education",
+        "category_bg_color": "#FF444A33",
+        "card_bg_color": "#FF444A26",
+        "text_and_btn_bg_color": "#FF444A",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": "$24.99",
+        "category": "Education"
+    },
+    {
+        "id": 11,
+        "image": "https://i.ibb.co/s6QpqQZ/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category_bg_color": "#79C23F33",
+        "card_bg_color": "#79C23F26",
+        "text_and_btn_bg_color": "#79C23F",
+        "description": "A clothing drive, a noble deed to pursue,Gathering garments, both old and new.Donate with compassion, to those in need,Warmth and dignity, you'll help them succeed.Through these acts of kindness, hearts you'll feed.",
+        "price": "$19.99",
+        "category": "Clothing"
     },
     {
         "id": 12,
