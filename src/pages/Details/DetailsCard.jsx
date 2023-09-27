@@ -35,7 +35,7 @@ const DetailsCard = ({ details }) => {
     return (
         <div className=' max-w-[1300px] mx-auto p-14 relative'>
             <img className='w-[1200px] h-[500px] rounded-lg' src={image} alt="" />
-            <div className='absolute bottom-60 left-20'>
+            <div className='absolute lg:bottom-60 left-20 md:bottom-60 bottom-80'>
                 <button onClick={handleAddToDonation} style={{ backgroundColor: `${text_and_btn_bg_color}` }} className='px-5 py-2 rounded-md text-white text-xl font-medium'>Donate {price}</button>
             </div>
             <h1 className='lg:text-4xl md:text-3xl text-2xl font-semibold mt-6'>{title}</h1>

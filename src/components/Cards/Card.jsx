@@ -7,7 +7,7 @@ const Card = ({ card }) => {
 
     return (
         <Link to={`/cards/${id}`}>
-            <div className='mt-20'>
+            <div className='mt-12'>
                 <div style={{ backgroundColor: `${card_bg_color}` }} className="relative lg:mx-0 md:mx-8 mx-16 flex flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
                     <div className="relative mt-4overflow-hidden rounded-xl bg-white bg-clip-border text-gray-700">
                         <img className='w-80 h-40'
