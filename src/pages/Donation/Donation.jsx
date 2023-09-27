@@ -5,7 +5,7 @@ const Donation = () => {
 
     const [donation, setDonation] = useState([]);
     const [noData, setNoData] = useState("");
-    const [dataLength, setDataLength] = useState(4);
+    const [dataLength, setDataLength] = useState(false);
 
 
     useEffect(() => {
@@ -38,13 +38,15 @@ const Donation = () => {
                     {donation.length > 0 && <button onClick={handleRemove} className='px-5 py-3 text-white bg-[#009444] block mx-auto text-xl font-semibold rounded-md'>Deleted All Donation</button>}
 
                     <div className='grid lg:grid-cols-2 md:grid-cols-1 gap-6 mt-10'>
-                        {donation.slice(0, dataLength).map(details => <Donate key={details.id} details={details}></Donate>)}
+                        {dataLength?
+                            donation.map(details => <Donate key={details.id} details={details}></Donate>):
+                            donation.slice(0, 4).map(details => <Donate key={details.id} details={details}></Donate>)}
                     </div>
 
                     <div className='text-center mt-10'>
-                        <div className={dataLength === donation.length && 'hidden'} >
-                            <button onClick={() => setDataLength(donation.length)} className='px-5 py-3 text-white bg-[#009444] block mx-auto text-xl font-semibold rounded-md'>See All</button>
-                        </div>
+                        {donation.length > 4 &&
+                            <button onClick={() => setDataLength(!dataLength)} className='px-5 py-3 text-white bg-[#009444] block mx-auto text-xl font-semibold rounded-md'>See All</button>
+                        }
                     </div>
                 </div>}
         </div>
