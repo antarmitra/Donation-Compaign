@@ -1,10 +1,10 @@
 import React from 'react';
-
+import bannerImg from "../../../assets/image/banner.png"
 const Banner = () => {
     return (
         <div>
             <div className="hero min-h-fit">
-                <img src="/src/assets/image/Rectangle 4281.png" alt="" />
+                <img src={bannerImg} alt="" />
                 <div className="hero-overlay bg-white bg-opacity-80"></div>
                 <div className="hero-content text-center text-neutral-content">
                     <div>
