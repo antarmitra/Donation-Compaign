@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom';
 const Card = ({ card }) => {
     const { id, image, title, category, category_bg_color, card_bg_color, text_and_btn_bg_color } = card;
 
-
     return (
         <Link to={`/cards/${id}`}>
             <div className='mt-12'>

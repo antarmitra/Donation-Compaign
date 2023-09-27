@@ -1,7 +1,6 @@
 import { useEffect, useState } from 'react';
 import { PieChart, Pie, Cell } from "recharts";
 
-
 export default function Statistics() {
     const [totalPercent, setTotalPercent] = useState([]);
 
@@ -20,7 +19,7 @@ export default function Statistics() {
         { name: "Group A", value: 100 - totalPercent },
         { name: "Group B", value: totalPercent }
     ];
-
+    
     const COLORS = ["#FF444A", "#00C49F"];
 
     const RADIAN = Math.PI / 180;

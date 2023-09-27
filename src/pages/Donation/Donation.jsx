@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Donate from './Donate';
 
-
 const Donation = () => {
 
     const [donation, setDonation] = useState([]);
@@ -32,8 +31,6 @@ const Donation = () => {
 
     return (
         <div className='max-w-[1300px] mx-auto'>
-
-
 
             {noData ? <p className='h-[60vh] flex justify-center items-center text-3xl font-semibold'>{noData}</p>
                 :
